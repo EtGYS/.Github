@@ -8,4 +8,5 @@ Eternalglory由EternalTide运营.
 | Tian_Tempest                                                  | L                                                  | 迅猛龙                                                           | 苏达                                                    | 炎风                                                      |
 | 服主                                                            | 代理服主                                               | 管理员                                                           | 管理员                                                   | 管理员                                                     |
 ### Web
-[EternalTide](https://etstudios.cn) | [Eternalglory](https://etntl.top) ~~| [Web.Temp](/) | [Froum.](https://froum.etstudios.cn)~~~
+[EternalTide](https://etstudios.cn) | [Eternalglory](https://etntl.top) | [Web.Temp](/) | [Froum.](https://froum.etstudios.cn)
+
