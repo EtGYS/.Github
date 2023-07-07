@@ -1,5 +1,8 @@
 # Eternalglory Minecraft Github_ORG
 Eternalglory由EternalTide运营.
+### Info
+永恒光辉将位于``2023年7月8日``正式开服<br>
+不想打开网页?那么订阅我们的[``RSS``](https://etntl.top/rss.xml)源
 ### Support
 [Outlook](mailto:EternalTide2019@outlook.com) | [Join QQ Group](http://jq.qq.com/?_wv=1027&k=)
 ### Members:
