@@ -2,6 +2,7 @@
 Eternalglory由EternalTide运营.
 ### Info
 ~~永恒光辉将位于``2023年7月8日``正式开服<br>~~
+*因为部分不可抗因素,我们已经调整了开服日期awa*
 ### Support
 [Outlook](mailto:EternalTide2019@outlook.com) | [Join QQ Group](http://jq.qq.com/?_wv=1027&k=)
 ### Members:
