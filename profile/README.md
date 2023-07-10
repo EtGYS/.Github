@@ -19,3 +19,12 @@ QQ:2993936607   | QQ:1044955998   | QQ:1935786227 |QQ:3119165863  | QQ:292397643
 
 ### Web
 [EternalTide](https://etstudios.cn) | [Eternalglory](https://etntl.top) | [Froum](https://forum.etstudios.cn)
+
+### Server Stat
+```
+1线
+2线
+3线
+多线服务器
+#Stat Web: stat.
+```
